@@ -1,0 +1,26 @@
+{
+    "git.ignoreLimitWarning": true,
+    "sqltools.connections": [
+        {
+            "database": "Japan",
+            "dialect": "PostgreSQL",
+            "name": "postgres10-japan",
+            "password": "postgres",
+            "port": 5434,
+            "server": "localhost",
+            "username": "postgres"
+        },
+        {
+            "database": "test",
+            "dialect": "PostgreSQL",
+            "isActive": true,
+            "isConnected": true,
+            "name": "postgres12-test",
+            "password": "postgres",
+            "port": 5432,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ],
+    "python.pythonPath": "C:\\Users\\mitsui-h\\AppData\\Local\\Continuum\\anaconda3\\python.exe"
+}
